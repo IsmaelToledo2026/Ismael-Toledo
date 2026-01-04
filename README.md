@@ -12,10 +12,9 @@ Estudante de tecnologia focado em aprender e construir soluções práticas.
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do Ismael](https://github-readme-stats.vercel.app/api?username=IsmaelToledo2026&show_icons=true&theme=dark&include_all_commits=true)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsmaelToledo2026&show_icons=true&theme=radical" alt="Estatísticas do Ismael" />
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelToledo2026&layout=compact&theme=dark)
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsmaelToledo2026&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 ---
 
 ### 📫 Como me encontrar
